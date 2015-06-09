@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Bob Loblaw's Restaurant</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="restaurantstyles.css">
+	<link rel="icon" href="" type="image/ico" />
+	<script type="text/javascript" src="functions.js"></script>
+	<script type="text/javascript" src="shoppingcart.js"></script>
+</head>
+<body>
+<div id="wrapper">
+	<div id="heading">
+	<img src="assets/logoalpha.png" alt="" />
+		<div id="nav">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="menu.html">Menu</a></li>
+				<li><a href="about.html">About Us</a></li>
+				<li><a href="mailto:thomasryan_222@yahoo.com">Contact</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="content">
+		<div id="tableDiv"></div>
+		<div id="orderInfo">
+		<h3>Order Subtotal: $<span id="orderSub"></span></h3>
+		</div>
+		Please choose a tip amount:
+		<select id="tip">
+			<option value="blank"></option>
+			<option value=".10">10%</option>
+			<option value=".15">15%</option>
+			<option value=".18">18%</option>
+			<option value=".20">20%</option>
+		</select> 
+		<span id="tipAmt">$0.00</span>
+		<p id="tipMessage"></p>
+		<input type="button" id="checkoutbutton" value="Proceed To Checkout">
+		<input type="button" id="shopbutton" value="Add More Items">
+		<br><br>
+	</div>
+</div>
+</body>

@@ -1,0 +1,35 @@
+body { background-image: url(assets/background.jpg); }
+#wrapper { width: 85%; margin-left: 18%; margin-right: auto;}
+#nav ul { background: #FFFFFF; padding: 0 15px;  list-style: none; display: block; position: relative; width: 67%; margin-left: 10px; }
+#nav ul:after { content: ""; clear: both; display: block; }
+#nav ul li { float: left; margin-left: 40px; margin-right: 44px }
+#nav ul li a { display: block; padding: 10px 10px; color: #222222; font-size: 14pt; text-decoration: none; font-weight: bold;}
+#nav ul li a:hover { color: #0000EE }
+#content {background-color: white; width: 69%; background-color: #FFEEEE; padding: 5px 15px 5px 15px;
+			border-style: solid; border-width: 3px; border-color: #111111; overflow:hidden }
+#apptable td { padding: 5px 15px 5px 15px; vertical-align: top; }
+#apptable th img { margin-bottom: 15px }
+#entreetable td { padding: 5px 15px 5px 15px; vertical-align: top}
+#entreetable th img { margin-bottom: 15px }
+#desserttable  td{ padding: 5px 15px 5px 15px; vertical-align: top}
+#desserttable th img { margin-bottom: 15px }
+.button { float: right;}
+.heading { font-size: 14pt; font-family: Book Antiqua; font-weight: bold }
+.description { width: 50% }
+.meal { font-family: georgia; margin: 3% 41% }
+.price { font-weight: bold }
+#buttons {clear: both }
+#signature { font-family: Brush Script MT; font-size: 20pt; }
+#cartTable { border-collapse: collapse; margin: 0px}
+#cartTable th { border: 2px solid; padding: 8px;}
+#cartTable td { border: 2px solid; padding: 8px;}
+#shopbutton { float: right;}
+#checkoutbutton { float: right;}
+#left { width:40%; float:left; padding:10px; }
+#right  { width:40%; float:right; padding:10px; }
+.calendar_dates    {text-align: center; background-color: white}
+#calendar_today {font-weight: bold; color: rgb(223,29,29); background-color: ivory;
+                    border: 1px solid black; }
+#phone1 { width: 8% }
+#phone2 { width: 8% }
+#phone3 { width: 11% }

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Bob Loblaw's Restaurant</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="restaurantstyles.css">
+	<link rel="icon" href="" type="image/ico" />
+	<script type="text/javascript" src="functions.js"></script>
+	<script type="text/javascript" src="calendar.js"></script>
+	<script type="text/javascript" src="checkout.js"></script>
+</head>
+<body>
+<div id="wrapper">
+	<div id="heading">
+	<img src="assets/logoalpha.png" alt="" />
+		<div id="nav">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="menu.html">Menu</a></li>
+				<li><a href="about.html">About Us</a></li>
+				<li><a href="mailto:thomasryan_222@yahoo.com">Contact</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="content">
+		<div id="left">
+			<p>Please fill out the information on the right side to complete your order.
+			</p>
+			<img src="assets/bob.jpg">
+			<figcaption><i>"Whether it's embezzlement plea bargains or restaurant order forms,
+				Bob's always there to point the way."</i><br> -Bob Loblaw</figcaption>
+			<h3>Your Order: </h3>
+			<p id="itemList"></p>
+			<h4>Order Subtotal: <span id="orderSub"></span></h4>
+			<h4>Tax: <span id="tax"></span></h4>
+			<h4>Tip: <span id="tip"></span></h4>
+			<h2>Order Total: <span id="total"></span></h2>
+		</div>
+		<div id="right">
+			<h3>Select a pickup time: </h3>
+			<select id="hours">
+				<option value=""></option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+			</select> : 
+			<select id="minutes">
+				<option value=""></option>
+				<option value="00">00</option>
+				<option value="15">15</option>
+				<option value="30">30</option>
+				<option value="45">45</option>
+			</select> 
+			<select id="ampm">
+				<option value=""></option>
+				<option value="A.M.">AM</option>
+				<option value="P.M.">PM</option>
+			</select>
+			<br><br><i>Hours are 10 AM to 11 PM.</i><br><br>
+			Select Another Date Below (optional): <br><br>
+			<div id="calendar">
+				<script type="text/javascript">
+					var date = new Date();
+					calendar(date);
+				</script>
+			</div>
+			<br><br>
+			<h3 id="confirmMessage">
+			</h3><br>
+			First Name: <br>
+			<input type="text" id="fName"><br>
+			Last Name: <br>
+			<input type="text" id="lName"><br><br>
+			Telephone Number: <br>
+			<input type="text" id="phone1">-
+			<input type="text" id="phone2">-
+			<input type="text" id="phone3"><br><br>
+			Credit Card: <br>
+			<select id="creditCard">
+				<option>American Express</option>
+				<option>Diner's Club</option>
+				<option>Discover</option>
+				<option>Mastercard</option>
+				<option>Visa</option>
+			</select><br><br>Card Number: <br>
+			<input type="text" id="cardNumber"><br><br>
+		</div>
+		<div id="buttons">
+			<input type="button" value="Complete Order" class="button" onclick="validate()">
+			<input type="button" value="Add More Items" class="button" onclick="window.location='menu.html'"><br><br>
+		</div>
+	</div>
+</div>
+</body>
+	

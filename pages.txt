@@ -1,0 +1,66 @@
+Main page
+About Us
+Menu
+Shopping cart page (item list, quantity, item total, subtotal, tip choice)
+Checkout Page (pickup times, credit card, name, phone)
+Thank you page
+
+
+
+Appetizers:
+Not-Hamster
+Buffalo Wings (We are legally required to inform Jessica Simpsons that these are not made from real buffalo wings. Flying buffalos are too difficult to catch)
+California Roll (Imported from california)
+Caveat Caviar (Caveat: not entirely caviar)
+
+Entrees:
+Legal Eagle
+Bob's Gobs of Lobster Blobs (We admit no fault with Bob's classic, deep fried lobsters).
+Indicted Ham Sandwich (So good it's almost illegal... trial pending)
+Capital Scallops
+
+Desserts:
+Non-liable Homicide By Chocolate
+Apple Estoppel
+Bob's Cobbler
+Criminal Caramel Sundae
+
+Random terms:
+accomplice: use for the sauce on something, or a side to something
+accrue
+acquittal
+admit no fault
+affirm
+bail (for rhyme)
+bait and switch
+boilerplate
+capital (like 'top of the line' something, scallops)
+proximate cause
+
+
+Descriptions:
+
+Caveat Caviar: Fresh caviar from right here on the Mississippi, served on warm crostini bread with whipped cream cheese. Caveat: not entirely caviar.
+
+California Roll: The classic sushi roll, perfect to split with friends and family. Imported from California.
+
+Buffalo Wings: Seasoned wings from our seasoned cooks, these are cooked to perfection, and available in mild, medium, and extremely painful.
+	*We are legally required to inform patrons that these are not actual buffalo wings. Flying buffalo are too hard to catch.
+
+Not-Hamster: Lightly seasoned with a side of bleu cheese, the whole family will enjoy these strips of what we can promise you is not hamster.
+
+Bob's Gobs of Lobster Blobs: We admit no fault with our signature pan-fried, breaded lobster balls. It's here because it's the best lobster this side of heaven, not because lob rhymes with Bob! That was just the initial idea.
+
+Indicted Ham Sandiwch: Black Forest Ham on grilled, buttered bread, topped with melted swiss cheese, fresh Romaine lettuce, and tomato. So good, it's almost illegal... trial pending.
+
+Legal Eagle: Imported from the archipelago of *******, this exotic treat was only made possible through the expert legal wrangling of Bob Loblaw. Show your patriotism by eating the only thing more american than apple pie.
+
+Capital Scallops: If you've accrued an interest in Scallops, look no further! Bob's Scallops are grilled flawlessly tender, and topped with savory lemon butter. Invest in the best scallop dish on the market.
+
+Apple Estoppel: Don't think about leaving just yet! Our fresh apple pie, topped with your choice of homemade vanilla or caramel ice cream, will stop you in your tracks.
+
+Bob's Cobbler: Indulgent deep-dish peach cobbler topped with farm-fresh whipped cream, Bob's Cobbler is probable cause for applause.
+
+Non-liable Homicide by Chocolate: Chocolate cake topped with fudge and chocolate sauce. Waiver and pen included.
+
+Criminal Caramel: This sinful sundae has been sentenced to the dessert table for crimes against good health. Homemade vanilla or caramel ice cream topped with caramel sauce and sprinkles. Justice is served.
